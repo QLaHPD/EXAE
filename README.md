@@ -1,2 +1,2 @@
 # EXAE
-Repo of the Extreme Compression AutoEncoder
+Repository of the Extreme Compression AutoEncoder
